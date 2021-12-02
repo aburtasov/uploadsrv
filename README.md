@@ -1,2 +1,2 @@
 # uploadsrv
-upload server
+Simple upload server
